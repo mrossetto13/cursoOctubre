@@ -1,0 +1,7 @@
+<suite name="Examen">
+    <test name="Ejercicios Testng">
+        <classes>
+            <class name="Examen.prueba_mailchimp"></class>
+        </classes>
+    </test>
+</suite>
